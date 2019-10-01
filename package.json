@@ -1,0 +1,27 @@
+{
+  "name": "nodemailertest",
+  "version": "1.0.0",
+  "description": "메일 테스트",
+  "main": "simplesend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitedoghub/nodemailertest.git"
+  },
+  "keywords": [
+    "nodemailer",
+    "sendmail",
+    "authmail"
+  ],
+  "author": "kbk109",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitedoghub/nodemailertest/issues"
+  },
+  "homepage": "https://github.com/whitedoghub/nodemailertest#readme",
+  "dependencies": {
+    "nodemailer": "^6.3.0"
+  }
+}
